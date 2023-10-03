@@ -67,8 +67,6 @@ ypoints = np.array([0, 250])
 plt.plot(xpoints, ypoints)
 plt.show()
 ```
-
-
     
 ![png](output_5_0.png)
     
@@ -136,7 +134,7 @@ plt.show()
     
 
 
-<pre>
+```html
 Signature: plt.plot(*args, scalex=True, scaley=True, data=None, **kwargs)
 Docstring:
 Plot y versus x as lines and/or markers.
@@ -421,7 +419,7 @@ additionally use any  `matplotlib.colors` spec, e.g. full names
 (``'green'``) or hex strings (``'#008000'``).
 File:      c:\users\mrahe\anaconda3\lib\site-packages\matplotlib\pyplot.py
 Type:      function
-</per>
+```
 
 
 ```python
