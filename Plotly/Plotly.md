@@ -1685,3 +1685,8 @@ if __name__ == '__main__':
 
 **Explanation:** This simple **Dash** app creates an interactive web-based dashboard displaying sales data by month.
 
+
+
+
+
+[View Interactive Plot](https://chart-studio.plotly.com/~mraheel/2/)
