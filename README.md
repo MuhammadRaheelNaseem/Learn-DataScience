@@ -13,7 +13,7 @@ Welcome to the 'Learn Data Science with Raheel' repository! This repository is d
 - Data-driven decision-making in various industries.
   - Data Science enables organizations to make informed decisions by analyzing data patterns and trends.
 - **Examples:** Healthcare, Finance, Marketing, Technology.
-  -** Healthcare:** Analyzing patient data for personalized treatment plans.
+  - **Healthcare:** Analyzing patient data for personalized treatment plans.
   - **Finance:** Detecting fraudulent transactions using anomaly detection algorithms.
   - **Marketing:** Targeted advertising based on customer behavior analysis.
   - **Technology:** Developing recommendation systems for content streaming platforms.
